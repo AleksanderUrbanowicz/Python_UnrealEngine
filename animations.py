@@ -16,6 +16,9 @@ CHANNELS_TO_KEY = [
     'Location.Z'
 ]
 
+log
+
+
 def hello():
     unreal.log("hello animations script")
 
